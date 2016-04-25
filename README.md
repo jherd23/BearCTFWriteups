@@ -325,4 +325,4 @@ However, the problem does not stop there. In order to find the flag, one must th
 
 ***
 
-# Thanks to all of the people who competed in and supported this project #
+# Thanks to all of the people who competed in and supported this project! #
